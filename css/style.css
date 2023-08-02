@@ -1,0 +1,341 @@
+/*common css*/
+body{
+	font-family: 'Inter', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #4D4D4D;
+
+}
+header{
+
+	padding: 30px 0;
+  background: #F5F7FA;
+;
+}
+.cnav{}
+.logo{
+	width: 200px;
+}
+.ntgl:focus { 
+	box-shadow: none;
+}
+.menu{}
+.menu ul li a{
+	padding: 0 25px !important ;
+	color: #000000 !important;
+	line-height: 24px;
+}
+.menu ul li a:hover{
+	color: #4CAF4F !important;
+}
+.btn_s{
+	margin-left: 10px;
+	width: 105px;
+	height: 45px;
+}
+.btn_c{
+  display: flex;
+  align-items:center ;
+  justify-content: center;
+  border: 0;
+  background:;
+  border-radius: 6px;
+  color: #4CAF4F;
+  line-height: 19px;
+}
+.btn_c:hover{
+	background: #4CAF4F  ; 
+	color: white;
+}
+.btn_c:active{
+	background: #FD511A!important  ; 
+	color: #FFFFFF!important ;
+}
+/*header end*/
+/*banner start*/
+.banner1{
+
+	padding: 96px 0;
+	 background: #F5F7FA;
+}
+.pi{
+
+}
+.cus_i{
+	bottom: -102px;
+}
+.cus_i button {
+  width: 17px!important;
+	border-radius: 50px!important;
+	background: #4CAF4F!important;
+}
+.b_text
+.bp1{
+	color: #FD511A;
+    line-height: 24px;
+}
+.bh1{
+	 margin: 10px 0 20px;
+	 padding: 0 100px 0 0;
+	 font-weight: 600;
+    font-size: 64px;
+    color:#4D4D4D;
+    line-height: 70px;
+}
+.bh1 span{
+
+	color:#4CAF4F;
+}
+.bp2{
+	padding: 0 120px 0 0;
+	line-height: 36px;
+}
+
+.btn_link{
+	margin-top: 15px;
+	width: 155px;
+   height: 45px;
+}
+
+.b_img{
+	margin: px;
+}
+.b_img img{
+ width: 100%; }
+/*banner end*/
+/*our client start*/
+
+.our_cli{
+	padding: 40px 0;
+}
+.our_text
+.ot{
+	font-size: 36px!important;
+	font-weight: 700!important;
+}
+.op{
+	padding-top: 8px;
+	 color: #717171;
+
+}
+.o_icon{
+
+	padding: 25px 0 0 0;
+}
+.o_icon ul {
+   list-style: none;
+}
+.o_icon ul li{
+	padding: 10px 65px;
+
+}
+.o_icon ul li img{
+
+}
+.o_icon ul li:last-child {
+    
+}
+/*our client end*/
+/*mannagemen*/
+.mannagement{
+	padding: 40px 10px;
+}
+.m_text{}
+.m_text h1{
+	font-size: 36px;
+	font-weight: 600;
+}
+.m_text p{
+	margin: 8px 0 0 0;
+	color: #717171;
+}
+/*mannagement*/
+/*group start*/
+.group{
+	padding-top: 16px;
+}
+.g_img{}
+.g_img img{ 
+ }
+.g_text{}
+.g_text h2{
+	margin: 16px 0 8px 0;
+	font-size: 28px ;
+  font-weight: 700;
+}
+.g_text p{
+	font-size: 14px;
+	line-height: 20px;
+	color: #717171;
+}
+.group_con:hover{
+	background: #FFFFFF;
+	box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.20);
+  	
+}
+
+/*group end*/
+/*unseen start*/
+.unseen{
+	padding-top: 25px;
+}
+.un_img{}
+.un_img img{
+	width: 100%;
+}
+.un_text{
+	padding-top: 60px;
+	padding-left: 40px;
+}
+.un_text h3{
+	font-size: 36px;
+  font-weight: 600;
+  line-height: 44px;}
+.un_text p{
+	color: #717171;
+	font-size: 14px;
+	line-height: 20px;
+}
+.btn_sc{
+	width: 25%;
+}
+/*unseen end*/
+/*help start*/
+.help{
+	padding: 64px 0;
+	background: #F5F7FA;
+}
+.help_text{
+	padding: 16px 0 0 0;
+}
+.help_text h2{
+	font-size: 36px;
+	font-weight: 600;
+	line-height: 44px;
+}
+.help_text h2 span{
+	color: #4CAF4F;
+}
+.help_text p{
+ margin-top: 8px;
+	line-height: 24px; 
+}
+
+.hfull{
+		text-align: left;
+	overflow: hidden;
+}
+.hm{
+	 	text-align: left;
+	 float: left;
+}
+.hm img{
+	width: 100%;
+}
+.ht{
+	    padding: 0 130px 0 0;
+	text-align: left;
+	 	float: right;
+}
+.ht h2{
+	font-size: 28px;
+	font-weight: 700;
+}
+.ht p{
+	color: #717171;
+	line-height: 24px;
+}
+/*help end*/
+/*meet more*/
+.meet_more{
+	margin-top: 40px;
+	padding: 32px 0;
+	background: #F5F7FA;
+}
+.mmi{
+		background: #F5F7FA;
+}
+.mmi img{
+	width: 100%;
+
+}
+.mmtex
+.mmtex p{
+	font-weight: 500;
+  line-height: 24px
+}
+.mmtex h5{
+	font-size: 20px;
+ font-weight: 600;
+ line-height: 28px;
+ margin: 20px 0; 
+ color: #4CAF4F;
+}
+.ml{}
+.ml ul{
+	list-style: none;
+}
+.ml ul li {
+   padding: 0 40px 0 0;
+}
+.ml ul li img {
+   height: 40px;
+   width: 40px;
+}
+/*meet more*/
+/*big text*/
+.bt{
+	
+}
+.bth1{
+	margin: 32px 0;
+	font-size: 64px;
+ font-weight: 600;
+ line-height: 76px;
+}
+.btn_ee{
+	margin-top: 20px;
+	margin-bottom: 32px;
+ 	padding: 20px;
+	width: 12%;
+
+
+}
+/*big text*/
+/*footer start	*/
+.footer{
+	padding: 64px 0px;
+	background: #263238;
+}
+
+.ft1{}
+.ft1 p{
+	padding: 40px 0;
+	font-size: 14px;
+
+  font-weight: 400;
+  line-height: 20px; 
+	color: #F5F7FA;
+}
+.fti i{
+	padding: 0 16px 0 0;
+  color: white;
+
+}
+.fh{
+	color: white;
+	font-size: 20px;
+  font-weight: 600;
+  line-height: 28px; 
+	padding-bottom: 12px ;
+}
+.fp{
+	font-size: 14px;
+ font-weight: 400;
+ line-height: 20px; 
+	color: #F5F7FA;
+	;
+}
+.fp2{
+	padding: 0 0 0 120px;
+}

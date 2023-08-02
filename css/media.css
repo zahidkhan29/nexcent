@@ -1,0 +1,326 @@
+/*Extra small devices (portrait phones, less than 576px*/
+@media (max-width: 575.98px) {
+         /*header start*/
+ header{
+    padding: 0 ;
+ }   
+ .logo{
+    width: 170px;
+ }
+ .menu ul li a{
+    margin-bottom: 5px;
+    padding: 0 10px !important ;
+} 
+/*banner start */
+.banner{
+    padding-bottom: 60px;
+}
+.b_text{
+    text-align: center;
+}
+.bh1{
+    
+    padding: 0;
+    font-size: 30px;
+    line-height: 40px;
+}
+.bp2{
+    padding: 0;
+    line-height: 26px;
+}
+.btn_link{
+    margin: 15px auto 0;
+}
+.b_img{
+    margin-bottom: 30px;
+    padding: 0 ;
+
+ }  
+ .cus_i {
+    bottom: -32px;
+}
+  /*our*/
+.o_icon ul li{
+      padding: 20px 0px 0 8px
+}
+
+ .o_icon ul li img {
+    width: 60%;
+}
+.banner1 {
+    padding: 19px 0;
+    background: #F5F7FA;
+}
+
+/*our*/
+ .o_icon ul li img {
+    width: 75%;
+}
+.o_icon ul li {
+    padding: 33px 100px 10px 100px;
+}
+.m_text h1 {
+    font-size: 27px;
+    font-weight: 600;
+}
+.m_text p {
+    font-size: 14px;}
+.un_text {
+    text-align: center;
+    padding-top: 0;
+    padding-left: 0;
+}
+.un_text h3 {
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 37px;
+}
+.help_text h2 {
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 36px;
+}
+/*help*/
+.ht {
+    text-align: center;
+    align-items: center;
+    padding: 0px 221px 0 0;
+}
+.help_text {
+    text-align: center;}
+    .hm {
+    padding: 0px 0 0 125px;
+}
+.ht {
+    padding: 0px 120px 0 0;
+}
+.hm img {
+    width: 75%;
+}
+.ht h2 {
+    font-size: 20px;}
+.ml ul li {
+    padding: 5px 14px 29px 0px;
+}
+.ml ul li img {
+    height: 26px;
+    width: 28px;
+}
+.btn_sc {
+    width: 43%;
+}
+.bth1 {
+    margin: 23px 0;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 50px;
+}
+.footer{
+    text-align: center;
+    text-align: center;
+}
+.fp2 {
+    padding: 31px;
+}
+
+}
+
+ /*Small devices (landscape phones, 576px and */
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /*header start*/
+ header{
+    padding: 5px 0;
+ }   
+ .logo{
+    width: 180px;
+ }
+ .menu ul li a{
+    margin-bottom: 5px;
+    padding: 0 10px !important ;
+}   
+/*banner start */
+.b_text{
+    text-align: center;
+}
+.bh1{
+    
+    padding: 0 90px;
+    font-size: 35px;
+    line-height: 50px;
+}
+.bp2{
+    padding: 0 40px;
+    line-height: 30px;
+}
+.btn_link{
+    margin: 15px auto 0;
+}
+.b_img{
+    margin-bottom: 30px;
+    padding: 0 60px;
+
+ }
+ /*our*/
+ .o_icon ul li img {
+    width: 75%;
+}
+.o_icon ul li{
+      padding: 10px 0px 0 18px
+}
+/*help*/
+.ht {
+    text-align: center;
+    align-items: center;
+    padding: 0px 221px 0 0;
+}
+.help_text {
+    text-align: center;}
+    .hm {
+    padding: 0px 0 0 227px;
+}
+.ht {
+    padding: 0px 221px 0 0;
+}
+.ml ul li {
+    padding: 5px 14px 29px 0px;
+}
+.ml ul li img {
+    height: 26px;
+    width: 28px;
+}
+.btn_sc {
+
+    width: 63%;
+ }       
+.bth1 {
+    margin: 23px 0;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 66px;
+}
+.footer{
+    text-align: center;
+    text-align: center;
+}
+.fp2 {
+    padding: 31px;
+}
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  
+    .menu ul li a{
+    margin-bottom: 5px;
+    padding: 0 10px !important ;
+} 
+/*banner*/
+.bh1 {
+    margin: 47px 0 20px;}
+/*our*/
+.o_icon ul li{
+    padding: 10px 22px;
+
+}
+/*unseen*/
+.unseen {
+    padding: 58px 31px;
+}
+/*our*/
+.o_icon ul li {
+    padding: 10px 20px;
+}
+/*unseen*/
+
+/*help*/
+.hfull {
+    margin: 20px 0;}
+.ht {
+    padding: 0px 270px 0 0;
+}
+.help_text {
+    text-align: center;
+}
+.hm {
+    padding: 0px 0 0 255px;
+}
+.mmi {
+    padding: 20px 0 0 233px;
+}
+.mmi img {
+    width: 43%;}
+.bth1 {
+    margin: 32px 0;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 48px;
+}
+.btn_ee {
+    margin-top: 20px;
+    margin-bottom: 32px;
+    padding: 20px;
+    width: 19%;
+}
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .bh1{
+    
+    padding:0 4px 0 0  ;
+    font-size:43px ;
+}
+.bp2{
+    padding: 0 0 0 0 ;
+}
+/*our*/
+.o_icon ul li{
+    padding: 10px 39px;
+
+}
+/*unseen*/
+.unseen {
+    padding-top: 50px;
+}
+.un_text {
+    padding-top: 10px;
+    padding-left: 29px;
+}
+/*help*/
+.ht {
+    padding: 0 51px 0 0;
+}
+.ht h2 {
+    margin: 0px;}
+    /*bigtext*/
+.btn_ee {
+    width: 18%;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.bh1{
+    
+    padding:0 4px 0 0  ;
+    font-size:43px ;
+}
+.bp2{
+    padding: 0 0 0 0 ;
+}
+/*our*/
+.o_icon ul li{
+    padding: 10px 52px;
+
+}
+/*help*/
+.ht {
+    padding: 0 100px 0 0;}
+
+}
+.ht h2 {
+    margin: 0px;}
+ }
+
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {}
